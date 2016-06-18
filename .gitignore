@@ -1,0 +1,4 @@
+#ignore object and exe files
+obj
+bin
+./test/root_test.h
